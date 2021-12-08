@@ -1,3 +1,4 @@
 # Annotations
 
-ISJAIOSJIAOSJ
+Lógica de Programação
+Portugol
